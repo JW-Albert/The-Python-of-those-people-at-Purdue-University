@@ -1,0 +1,19 @@
+# a) 10/3+7
+print(10/3+7)
+
+# b) 10//3+7
+print(10//3+7)
+
+# c) 10/(3+7)
+print(10/(3 + 7))
+
+# d) 10/3-3
+print(10/3-3)
+
+# e) 10/(3-3)
+print(10/(3-3))
+# --> Error: Division by zero
+
+# f) 10//(3-3)
+print(10//(3-3))
+# --> Error: Division by zero

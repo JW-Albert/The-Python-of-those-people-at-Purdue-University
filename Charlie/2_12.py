@@ -1,7 +1,12 @@
 Salary = 10
 
 isRunning = True
+year = 0
 while isRunning:
+    year += 1
+    print("=================================")
+    print("The {:02d}th year".format(year))
+
     print("Employee salary is: ", Salary)
     print("Choose an option:")
     print("1. Raise salary")
