@@ -1,10 +1,10 @@
-import subfun
+from subfun import SB 
 
 def main():
     print("Hello from main in app.py")
     print(__name__)
     print("=====")
-    subfun.main()
+    SB()
 
 print("app.py is being run directly")
 
