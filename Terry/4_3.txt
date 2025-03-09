@@ -1,0 +1,12 @@
+1.Missing return statement
+
+The function calculates x ** 3, but the result is not returned.
+Instead, the function implicitly returns None.
+When calling cube(2), the output will be:
+The cube of 2 is None
+
+2. Function call inside its own definition
+
+The line print('The cube of 2 is', cube(2)) is inside the function body.
+This causes infinite recursion, as cube(2) keeps calling itself indefinitely.
+The program will crash due to a RecursionError.

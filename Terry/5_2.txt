@@ -1,0 +1,6 @@
+This function checks whether the given sequence (a list or other iterable) is already sorted in ascending order.
+
+1. sorted(sequence) returns a new sorted version of the input sequence.
+2. The function compares sequence with sorted(sequence).
+    (1) If they are the same, it means the sequence was already sorted, and the function returns True.
+    (2) Otherwise, it returns False
