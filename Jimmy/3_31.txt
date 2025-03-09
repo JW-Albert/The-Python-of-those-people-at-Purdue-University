@@ -1,0 +1,16 @@
+Analysis of Descriptive Statistics for Categorical Data
+
+1. Mean (Average)
+    Not applicable because categorical data cannot be added or averaged.
+    Example: You cannot calculate the "average breed" of dogs.
+
+2. Median (Middle Value)
+    Not applicable because categorical data does not have a meaningful order.
+    Example: There is no logical ranking of dog breeds.
+
+3.Mode (Most Frequent Value)
+    Applicable because it identifies the most commonly occurring category.
+
+Final Answer
+    Mode is the only descriptive statistic that applies to categorical data.
+    Mean and median do not work because they require numerical operations.
